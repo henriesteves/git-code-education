@@ -4,9 +4,15 @@
 
 Repositório de testes para o curso de Git da Code Education
 
-Commandos básicos:
+#### Commandos básicos:
 
 * git init
 * git commit
 * git remote add origin https://github.com/henriesteves/git-code-education.git
 * git push -u origin master
+
+
+#### Markdown Basics 
+
+[https://help.github.com/articles/markdown-basics/]
+
