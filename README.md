@@ -14,5 +14,5 @@ Repositório de testes para o curso de Git da Code Education
 
 #### Markdown Basics 
 
-[https://help.github.com/articles/markdown-basics/]
+[Click here](https://help.github.com/articles/markdown-basics/)
 
